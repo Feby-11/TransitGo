@@ -96,7 +96,6 @@ public class PencarianService {
         return -1;
     }
     
-
     public static int binarySearchRuteByHarga(HasilRute[] hasilRute, int jumlahHasil, int targetHarga) {
         int left = 0;
         int right = jumlahHasil - 1;

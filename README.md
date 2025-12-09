@@ -1,2 +1,0 @@
-# TransitMaps
-INI PROJECT KELOMPOK 12
